@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hello, I'm Sarah Nakama</h1>
 <h3 align="center">I'm a Japanese DevSecOps developer working in Sweden.</h3>
 
-- 🔭 I’m currently **trying to learn more about Terraform, and Ansible**
-- 📫 How to reach me **ysarahwong@gmail.com**
+- 🔭 I’m currently **learning FastAPI**
+- 📫 How to reach me **ysnakama@outlook.com**
 - 📄 Know about my experiences and contact me on LinkedIn: [www.linkedin.com/in/yoko-sarah-nakama-7270a012a](www.linkedin.com/in/yoko-sarah-nakama-7270a012a)
 - ⚡ Fun fact **I'm allergic to cats but I love them**
 
